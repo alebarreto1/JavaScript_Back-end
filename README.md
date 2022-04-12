@@ -1,3 +1,4 @@
 ## JavaScript Algorithms
 
-This repository contains programming logic studies in order to understand how to think and develop JavaScript algorithms that will be used to solve programming problems.
+This repository contains examples of sort and search algorithms. 
+The importance of these studies is to develop the practice of translating algorithm logic into JavaScript code that will be used to solve programming problems.
